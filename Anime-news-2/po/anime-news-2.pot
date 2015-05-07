@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-06 23:47+0200\n"
+"POT-Creation-Date: 2015-05-07 22:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,31 +17,31 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: Main.qml:20
+#: Main.qml:28
 msgid "My Anime List"
 msgstr ""
 
-#: Main.qml:25
+#: Main.qml:33
 msgid "Anime news network"
 msgstr ""
 
-#: Main.qml:30
+#: Main.qml:38
 msgid "Haruhi-chan"
 msgstr ""
 
-#: Main.qml:35
+#: Main.qml:43
 msgid "Crunchyroll"
 msgstr ""
 
-#: Main.qml:40
+#: Main.qml:48
 msgid "SGC"
 msgstr ""
 
-#: Main.qml:45
+#: Main.qml:53
 msgid "Malgraph"
 msgstr ""
 
-#: Main.qml:50
+#: Main.qml:58
 msgid "Jlist"
 msgstr ""
 
