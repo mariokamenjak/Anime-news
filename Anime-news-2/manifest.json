@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.mkamenjak77.anime",
+    "description": "description of Anime-news-2",
+    "architecture": "all",
+    "title": "Anime-news-2",
+    "hooks": {
+        "app": {
+            "apparmor": "app.apparmor",
+            "desktop": "app.desktop"
+        }
+    },
+    "version": "2.07",
+    "maintainer": "Mario Kamenjak <mkamenjak77@gmail.com>",
+    "framework": "ubuntu-sdk-14.10"
+}

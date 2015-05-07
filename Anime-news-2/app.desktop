@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=app
+Exec=qmlscene $@ Main.qml
+Icon=Anime-news-2.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
