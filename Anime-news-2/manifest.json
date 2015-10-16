@@ -9,7 +9,7 @@
             "desktop": "app.desktop"
         }
     },
-    "version": "2.47",
+    "version": "2.57",
     "maintainer": "Mario Kamenjak <mkamenjak77@gmail.com>",
-    "framework": "ubuntu-sdk-14.10"
+    "framework": "ubuntu-sdk-15.04"
 }
